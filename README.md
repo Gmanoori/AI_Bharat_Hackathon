@@ -58,7 +58,7 @@ Woop Woop is a gamified learning consistency tracker that helps students stay ac
 
 ## Getting Started
 
-See `.kiro/specs/woop-woop-learning-tracker/` for detailed requirements, design, and implementation tasks.
+See markdown files in root for detailed requirements, design, and implementation tasks.
 
 ## Project Status
 
