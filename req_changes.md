@@ -113,6 +113,9 @@ TBD: Sanity check the shared resource.
 5. THE System SHALL allow Users to save summaries for future reference
 6. WHEN summarization fails, THE System SHALL provide a descriptive error message
 
+
+```Read from here```
+
 ### Requirement 7: Community Resource Sharing
 
 **User Story:** As a user, I want to discover and share learning resources with other students, so that I can access high-quality study materials.
